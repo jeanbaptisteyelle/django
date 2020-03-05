@@ -1,0 +1,13 @@
+                                        DJANGO
+				
+
+				Creation de projet avec Django
+
+			       Elle se fait en plusieurs étapes
+
+		     1-Création environnement  virtuelle  et activation
+		     2-Pip install django==2.2.10
+		     3-django-admin startproject projetname( nom création du projet)
+		     4-python manage.py migrate
+		     5-python manage.py createsuper user
+		     6-Python manage.py runserver
